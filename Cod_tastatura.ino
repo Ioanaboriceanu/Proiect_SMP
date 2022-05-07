@@ -1,5 +1,3 @@
-#include <SPI.h>
-
 int s1=2;
 int s2=3;
 int s3=4;
