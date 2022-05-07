@@ -1,3 +1,4 @@
+
 int s1=2;
 int s2=3;
 int s3=4;
@@ -210,88 +211,148 @@ void loop()
     if(i==LOW&&j==HIGH&&k==LOW&&l==LOW&&m==HIGH&&n==HIGH)
     {
       Serial.print(".");
+
+
     }
+     else
+    if(i==HIGH&&j==HIGH&&k==HIGH&&l==HIGH&&m==HIGH&&n==HIGH)
+    {
+      Serial.print("for");
+
+    }
+     else
+    if(i==LOW&&j==LOW&&k==HIGH&&l==HIGH&&m==LOW&&n==HIGH)
+    {
+      Serial.print("ing");
+
+    }
+    else
+    if(i==HIGH&&j==HIGH&&k==LOW&&l==HIGH&&m==LOW&&n==HIGH)
+    {
+      Serial.print("ed");
+
+    }
+    else
+    if(i==HIGH&&j==HIGH&&k==HIGH&&l==HIGH&&m==LOW&&n==HIGH)
+    {
+      Serial.print("and");
+ 
+    }
+    else
+    if(i==LOW&&j==HIGH&&k==HIGH&&l==HIGH&&m==HIGH&&n==HIGH)
+    {
+      Serial.print("with");
+
+    }
+    else
+    if(i==LOW&&j==HIGH&&k==HIGH&&l==HIGH&&m==LOW&&n==HIGH)
+    {
+      Serial.print("the");
+
+    }
+    else
+    if(i==LOW&&j==LOW&&k==HIGH&&l==LOW&&m==HIGH&&n==LOW)
+    {
+      Serial.print("in");
+
+      }
     else
     if(i==LOW&&j==HIGH&&k==HIGH&&l==LOW&&m==LOW&&n==HIGH)
     {
       Serial.print("?");
+
     }
     else
     if(i==LOW&&j==HIGH&&k==HIGH&&l==LOW&&m==HIGH&&n==LOW)
     {
       Serial.print("!");
+
     }
     else
     if(i==LOW&&j==LOW&&k==HIGH&&l==LOW&&m==LOW&&n==LOW)
     {
       Serial.print("'");
+
     }
     else
     if(i==LOW&&j==LOW&&k==HIGH&&l==LOW&&m==LOW&&n==HIGH)
     {
       Serial.print("-");
+
     }
   }
-  else if(o==HIGH)
+  else if (o==HIGH)
   {
     if(i==LOW&&j==HIGH&&k==LOW&&l==HIGH&&m==HIGH&&n==LOW)
      {
       Serial.print("0");
+
     }
    else
    if(i==HIGH&&j==LOW&&k==LOW&&l==LOW&&m==LOW&&n==LOW)
     {
       Serial.print("1");
+
     }
     else
       if(i==HIGH&&j==HIGH&&k==LOW&&l==LOW&&m==LOW&&n==LOW)
     {
       Serial.print("2");
+
     }
     else
     if(i==HIGH&&j==LOW&&k==LOW&&l==HIGH&&m==LOW&&n==LOW)
     {
       Serial.print("3");
+  
     }
     else
     if(i==HIGH&&j==LOW&&k==LOW&&l==HIGH&&m==HIGH&&n==LOW)
     {
       Serial.print("4");
+
     }
     else
     if(i==HIGH&&j==LOW&&k==LOW&&l==LOW&&m==HIGH&&n==LOW)
     {
       Serial.print("5");
+
     }
     else
     if(i==HIGH&&j==HIGH&&k==LOW&&l==HIGH&&m==LOW&&n==LOW)
     {
       Serial.print("6");
+
     }
     else
     if(i==HIGH&&j==HIGH&&k==LOW&&l==HIGH&&m==HIGH&&n==LOW)
     {
       Serial.print("7");
+
     }
     else
     if(i==HIGH&&j==HIGH&&k==LOW&&l==LOW&&m==HIGH&&n==LOW)
     {
       Serial.print("8");
+
     }
     else
     if(i==LOW&&j==HIGH&&k==LOW&&l==HIGH&&m==LOW&&n==LOW)
     {
       Serial.print("9");
+  
     }
     else
       if(i==LOW&&j==LOW&&k==LOW&&l==HIGH&&m==LOW&&n==LOW)
     {
       Serial.print(" ");
+ 
     }
     else
     if(i==LOW&&j==LOW&&k==HIGH&&l==LOW&&m==LOW&&n==LOW)
     {
       Serial.println();
+   
     }
   }
   delay(250);
