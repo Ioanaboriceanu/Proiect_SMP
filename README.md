@@ -19,7 +19,7 @@ Componente software necesare funcționării: Cool Term (https://drive.google.com
 # Funcționare
 
 
-# *Debounce*
+# * *Debounce*
 
 
 # Bibliografie
