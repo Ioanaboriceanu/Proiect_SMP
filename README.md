@@ -24,5 +24,4 @@ Componente software necesare funcționării: Cool Term (https://drive.google.com
 
 # Bibliografie
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce
-
 https://www.instructables.com/Braille-Keyboard-With-Voice-Output/
