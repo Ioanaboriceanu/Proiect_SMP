@@ -217,43 +217,43 @@ void loop()
      else
     if(i==HIGH&&j==HIGH&&k==HIGH&&l==HIGH&&m==HIGH&&n==HIGH)
     {
-      Serial.print("for");
+      Serial.print("@");
 
     }
      else
     if(i==LOW&&j==LOW&&k==HIGH&&l==HIGH&&m==LOW&&n==HIGH)
     {
-      Serial.print("ing");
+      Serial.print("#");
 
     }
     else
     if(i==HIGH&&j==HIGH&&k==LOW&&l==HIGH&&m==LOW&&n==HIGH)
     {
-      Serial.print("ed");
+      Serial.print("$");
 
     }
     else
     if(i==HIGH&&j==HIGH&&k==HIGH&&l==HIGH&&m==LOW&&n==HIGH)
     {
-      Serial.print("and");
+      Serial.print("&");
  
     }
     else
     if(i==LOW&&j==HIGH&&k==HIGH&&l==HIGH&&m==HIGH&&n==HIGH)
     {
-      Serial.print("with");
+      Serial.print("/");
 
     }
     else
     if(i==LOW&&j==HIGH&&k==HIGH&&l==HIGH&&m==LOW&&n==HIGH)
     {
-      Serial.print("the");
+      Serial.print(">");
 
     }
     else
     if(i==LOW&&j==LOW&&k==HIGH&&l==LOW&&m==HIGH&&n==LOW)
     {
-      Serial.print("in");
+      Serial.print("<");
 
       }
     else
