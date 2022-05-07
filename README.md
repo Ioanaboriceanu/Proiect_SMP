@@ -1,6 +1,8 @@
 # Proiect_SMP
 Boriceanu Ioana-Roxana 331AB
+
 Proiectul meu simulează comportamentul unei tastaturi de tip Braille ce poate fi conectată la PC unde, cu ajutorul uni program, pot fi citite caracterele introduse.
+
 Componentele hardware folosite sunt:
   - Arduino Uno R3
   - 6 Butoane
@@ -8,6 +10,7 @@ Componentele hardware folosite sunt:
   - Breadbord
   - Rezitori 1k
   - Fire
+  
 Componente software necesare funcționării:
   -Cool Term (https://drive.google.com/drive/folders/1ANV2kW5r-ynvxdDrKEXf6GDcNKl0JOjO)
   
