@@ -7,8 +7,8 @@ Componentele hardware folosite sunt:
   - Arduino Uno R3
   - 6 Butoane
   - 1 Switch mini 2 pozitii
-  - Breadbord
-  - Rezitori 1k
+  - Breadboard
+  - Rezistori 1k
   - Fire
   
 Componente software necesare funcționării: Cool Term (https://drive.google.com/drive/folders/1ANV2kW5r-ynvxdDrKEXf6GDcNKl0JOjO)
