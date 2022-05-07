@@ -16,4 +16,5 @@ Componente software necesare funcționării: Cool Term (https://drive.google.com
  Link către proiect în Tinkercad:
  https://www.tinkercad.com/things/d3JyBZIlGPE?sharecode=hcGNP5PKd2Nhn8G1HwRLMAuVrKng2lMRJtA_DqjHnZM
 
-#Funcționare
+# Funcționare
+
