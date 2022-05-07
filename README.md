@@ -15,7 +15,7 @@ Componente software necesare funcționării: Cool Term (https://drive.google.com
   
  Link către proiect în Tinkercad:
   - Cu push-buttons (la fel ca schema fizica): https://www.tinkercad.com/things/d3JyBZIlGPE?sharecode=hcGNP5PKd2Nhn8G1HwRLMAuVrKng2lMRJtA_DqjHnZM
-  - Cu switch-ri (se poate verifica mai usor funcționalitatea codului): https://www.tinkercad.com/things/3bo5mDSRSSR
+  - Cu switch-uri (se poate verifica mai usor funcționalitatea codului): https://www.tinkercad.com/things/3bo5mDSRSSR
 
 # Funcționare
 
