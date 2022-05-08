@@ -49,12 +49,11 @@ buton2=apăsat   buton5=apăsat
 
 buton3=neapăsat buton6=neapăsat
 
-
-
 Pe schemă ordinea butoanelor este:
 
 B1 B2 B3 B4 B5 B6
 
+La fiecare introducere caracterul este trimis către terminal și afișat pe ecran.
 
 # Bibliografie
   - https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce
