@@ -1,7 +1,7 @@
 # Proiect_SMP
 Boriceanu Ioana-Roxana 331AB
 
-Proiectul meu simulează comportamentul unei tastaturi de tip Braille ce poate fi conectată la PC unde, cu ajutorul unui program, pot fi citite caracterele introduse.
+Proiectul meu simulează comportamentul unei tastaturi de tip Braille ce poate fi conectată la PC unde, cu ajutorul unui terminal pentru comunicații seriale, pot fi citite("traduse") caracterele introduse.
 
 Componentele hardware folosite sunt:
   - Arduino Uno R3
