@@ -37,9 +37,16 @@ Fiecare buton reprezintă un "punctuleț" din cele șase care definesc un caract
 
 Ceea ce în codul e meu se traduce ca:
 
-i==HIGH l==LOW            buton1=apăsat   buton4=neapăsat
-j==HIGH m==HIGH   <=>     buton2=apăsat   buton5=apăsat
-k==LOW  n==LOW            buton3=neapăsat buton6=neapăsat
+i==HIGH l==LOW            
+j==HIGH m==HIGH    
+k==LOW  n==LOW    
+
+ <=>  
+ 
+buton1=apăsat   buton4=neapăsat
+buton2=apăsat   buton5=apăsat
+buton3=neapăsat buton6=neapăsat
+
 
 Pe schemă ordinea butoanelor este:
 
