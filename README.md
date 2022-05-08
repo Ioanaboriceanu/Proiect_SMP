@@ -50,6 +50,7 @@ buton2=apăsat   buton5=apăsat
 buton3=neapăsat buton6=neapăsat
 
 
+
 Pe schemă ordinea butoanelor este:
 
 B1 B2 B3 B4 B5 B6
