@@ -44,7 +44,9 @@ k==LOW  n==LOW
  <=>  
  
 buton1=apăsat   buton4=neapăsat
+
 buton2=apăsat   buton5=apăsat
+
 buton3=neapăsat buton6=neapăsat
 
 
